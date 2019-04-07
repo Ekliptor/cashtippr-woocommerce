@@ -20,7 +20,7 @@ This plugin is also available in the [WordPress plugin installer](https://wordpr
 
 ## ToDos
 * add support for payments for Bitcoin Cash [SLP tokens](https://simpleledger.cash/) for payments
-* add
+* add customizable BCH payment buttons
 
 
 ## Contact
