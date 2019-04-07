@@ -17,6 +17,8 @@ Just upload all sources as a zip file into your WordPress instance.
 
 This plugin is also available in the [WordPress plugin installer](https://wordpress.org/plugins/cashtippr-woocommerce-addon/).
 
+You must also install WooCommerce and the [main CashTippr plugin](https://github.com/Ekliptor/cashtippr).
+
 
 ## ToDos
 * add support for payments for Bitcoin Cash [SLP tokens](https://simpleledger.cash/) for payments
