@@ -3,14 +3,14 @@
  * Plugin Name: CashTippr Woocommerce Addon
  * Plugin URI: https://cashtippr.com/
  * Description: Earn money by selling products (digital and real world) in your online store using Bitcoin Cash payments.
- * Version: 1.0.1
+ * Version: 1.1.9
  * Author: Ekliptor
  * Author URI: https://twitter.com/ekliptor
  * License: GPLv3
  * Text Domain: ekliptor
  * 
  * WC requires at least: 3.0
- * WC tested up to: 3.5
+ * WC tested up to: 3.6
  */
 
 use Ekliptor\Cashtippr\Woocommerce;
@@ -23,7 +23,7 @@ if (! defined( 'ABSPATH' )) {
 	exit ();
 }
 
-define ( 'CTIP_WOOCOMMERCE_VERSION', '1.0.1' );
+define ( 'CTIP_WOOCOMMERCE_VERSION', '1.1.9' );
 define ( 'CTIP_WOOCOMMERCE__MINIMUM_WP_VERSION', '4.7' ); // not used in sub plugin
 define ( 'CTIP_WOOCOMMERCE__PLUGIN_DIR', plugin_dir_path ( __FILE__ ) );
 

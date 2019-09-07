@@ -21,7 +21,7 @@ You must also install WooCommerce and the [main CashTippr plugin](https://github
 
 
 ## ToDos
-* add support for payments for Bitcoin Cash [SLP tokens](https://simpleledger.cash/) for payments
+* add support for payments in Bitcoin Cash [SLP tokens](https://simpleledger.cash/)
 * add customizable BCH payment buttons
 
 
